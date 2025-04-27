@@ -1,12 +1,12 @@
-// @Package dongle
+// @package xtcrypto
 // @Description a simple, semantic and developer-friendly golang crypto package
 // @Page github.com/dromara/dongle
 // @Developer gouguoyin
 // @Blog www.gouguoyin.com
 // @Email 245629560@qq.com
 
-// Package dongle is a simple, semantic and developer-friendly golang crypto package.
-package dongle
+// package xtcrypto is a simple, semantic and developer-friendly golang crypto package.
+package xtcrypto
 
 import (
 	"unsafe"

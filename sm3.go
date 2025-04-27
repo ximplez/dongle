@@ -1,4 +1,4 @@
-package dongle
+package xtcrypto
 
 import (
 	"github.com/emmansun/gmsm/sm3"

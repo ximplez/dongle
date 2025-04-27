@@ -1,4 +1,4 @@
-package dongle
+package xtcrypto
 
 import (
 	"crypto/ed25519"

@@ -1,4 +1,4 @@
-package dongle
+package xtcrypto
 
 // Decrypter defines Decrypter struct.
 type Decrypter struct {

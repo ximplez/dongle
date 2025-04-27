@@ -1,4 +1,4 @@
-package dongle
+package xtcrypto
 
 type Signer struct {
 	dongle

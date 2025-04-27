@@ -1,4 +1,4 @@
-module github.com/dromara/dongle
+module github.com/ximplez/xtool/xtcrypto
 
 go 1.16
 
