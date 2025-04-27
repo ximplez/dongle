@@ -9,7 +9,7 @@ import (
 	"fmt"
 	"math/big"
 
-	"github.com/dromara/dongle/openssl"
+	"github.com/ximplez/xtool/xtcrypto/openssl"
 )
 
 var (

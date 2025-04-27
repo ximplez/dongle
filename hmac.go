@@ -9,8 +9,8 @@ import (
 	"fmt"
 	"hash"
 
-	"github.com/dromara/dongle/md2"
 	"github.com/emmansun/gmsm/sm3"
+	"github.com/ximplez/xtool/xtcrypto/md2"
 	"golang.org/x/crypto/md4"
 	"golang.org/x/crypto/ripemd160"
 	"golang.org/x/crypto/sha3"

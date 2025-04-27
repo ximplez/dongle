@@ -6,11 +6,11 @@ import (
 	"encoding/base64"
 	"encoding/hex"
 
-	"github.com/dromara/dongle/base100"
-	"github.com/dromara/dongle/base45"
-	"github.com/dromara/dongle/base58"
-	"github.com/dromara/dongle/base62"
-	"github.com/dromara/dongle/base91"
+	"github.com/ximplez/xtool/xtcrypto/base100"
+	"github.com/ximplez/xtool/xtcrypto/base45"
+	"github.com/ximplez/xtool/xtcrypto/base58"
+	"github.com/ximplez/xtool/xtcrypto/base62"
+	"github.com/ximplez/xtool/xtcrypto/base91"
 )
 
 // ByHex encodes by hex.

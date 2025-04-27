@@ -4,7 +4,7 @@ import (
 	"crypto"
 	"fmt"
 
-	"github.com/dromara/dongle/rsa"
+	"github.com/ximplez/xtool/xtcrypto/rsa"
 )
 
 type rsaHash crypto.Hash

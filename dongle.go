@@ -1,6 +1,6 @@
 // @package xtcrypto
 // @Description a simple, semantic and developer-friendly golang crypto package
-// @Page github.com/dromara/dongle
+// @Page github.com/ximplez/xtool/xtcrypto
 // @Developer gouguoyin
 // @Blog www.gouguoyin.com
 // @Email 245629560@qq.com

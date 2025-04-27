@@ -3,7 +3,7 @@ package xtcrypto
 import (
 	"fmt"
 
-	"github.com/dromara/dongle/morse"
+	"github.com/ximplez/xtool/xtcrypto/morse"
 )
 
 type MorseError struct {

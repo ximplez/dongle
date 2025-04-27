@@ -2,9 +2,10 @@ package xtcrypto
 
 import (
 	"fmt"
-	"github.com/dromara/dongle/base62"
 	"strconv"
 	"testing"
+
+	"github.com/ximplez/xtool/xtcrypto/base62"
 
 	"github.com/stretchr/testify/assert"
 )

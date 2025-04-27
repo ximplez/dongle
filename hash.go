@@ -7,7 +7,7 @@ import (
 	"crypto/sha512"
 	"fmt"
 
-	"github.com/dromara/dongle/md2"
+	"github.com/ximplez/xtool/xtcrypto/md2"
 	"golang.org/x/crypto/blake2b"
 	"golang.org/x/crypto/blake2s"
 	"golang.org/x/crypto/md4"
